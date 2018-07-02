@@ -1,0 +1,11 @@
+D:\artigos\EFCoreSamples\LazyLoading\obj\Debug\netcoreapp2.1\LazyLoading.csprojAssemblyReference.cache
+D:\artigos\EFCoreSamples\LazyLoading\obj\Debug\netcoreapp2.1\LazyLoading.csproj.CoreCompileInputs.cache
+D:\artigos\EFCoreSamples\LazyLoading\obj\Debug\netcoreapp2.1\LazyLoading.AssemblyInfoInputs.cache
+D:\artigos\EFCoreSamples\LazyLoading\obj\Debug\netcoreapp2.1\LazyLoading.AssemblyInfo.cs
+D:\artigos\EFCoreSamples\LazyLoading\bin\Debug\netcoreapp2.1\LazyLoading.deps.json
+D:\artigos\EFCoreSamples\LazyLoading\bin\Debug\netcoreapp2.1\LazyLoading.runtimeconfig.json
+D:\artigos\EFCoreSamples\LazyLoading\bin\Debug\netcoreapp2.1\LazyLoading.runtimeconfig.dev.json
+D:\artigos\EFCoreSamples\LazyLoading\bin\Debug\netcoreapp2.1\LazyLoading.dll
+D:\artigos\EFCoreSamples\LazyLoading\bin\Debug\netcoreapp2.1\LazyLoading.pdb
+D:\artigos\EFCoreSamples\LazyLoading\obj\Debug\netcoreapp2.1\LazyLoading.dll
+D:\artigos\EFCoreSamples\LazyLoading\obj\Debug\netcoreapp2.1\LazyLoading.pdb
